@@ -1,1 +1,5 @@
 # SI-A_TrIP_Simulation
+A driven factor for the manufacturing is continuous adding value to material and (semi) finished products. However, to create this economic value and convert it into long-lasting profit, there are many challenges. Is it possible to improve my operator utilization? What are the bottlenecks in the production process? Can the overall efficiency be optimized? etc. In search for answers to these questions nowadays a lot of data is collected and are then analysed. However, analysis and experiments on the concrete physical system id not an option at all. Instead the process is analysed in a simulated environment, which more and more goes into direction of digital twining. 
+
+## case
+This assignment is exercises and familiarize the student with the simulation environment Enterprise Dynamics. It consists of starting fisrt with simple predefined exercised to build simulation models of a simple system.  After completing this project, the students may expect to have the basic knowledge needed to read and understand how to make simple simulation models, input data to the model and do simple analysis of the data via the simulation. 
